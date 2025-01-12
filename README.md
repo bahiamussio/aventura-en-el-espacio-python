@@ -8,12 +8,22 @@ En Aventura Espacial: Batalla por la Galaxia, asumes el rol de un valiente astro
 
 Cada decisión cuenta. ¡Demuestra tu valentía y conquista la galaxia! 🌌
 
+
+
 🕹️ Características del Juego
+
+
 ⚔️ Sistema de Combate: Ataca o huye en encuentros aleatorios con enemigos.
+
 ⭐ Progresión del Personaje: Gana experiencia, sube de nivel y mejora tus ataques.
+
 💀 Penalización por huir: ¡Escapar te costará puntos de experiencia!
+
 🛡️ Diversos enemigos: Enfréntate a Aliens, Robots y Monstruos.
+
 🚀 Exploración continua: Elige si quieres seguir explorando o terminar tu aventura.
+
+
 
 aventura-espacial/
 
@@ -33,7 +43,11 @@ aventura-espacial/
 └── requirements.txt    # (Opcional) Dependencias del proyecto
 
 
+
+
 🎯 Objetivo del Juego
+
+
 Derrota a todos los enemigos y sobrevive en la galaxia.
 
 Sube de nivel y fortalece a tu personaje.
@@ -41,7 +55,10 @@ Sube de nivel y fortalece a tu personaje.
 Toma decisiones sabias: ¿Atacar o huir? Cada elección tiene sus consecuencias.
 
 
+
+
 💡 Futuras Mejoras
+
 
 🌍 Nuevos escenarios galácticos.
 

@@ -14,14 +14,13 @@ Cada decisión cuenta. ¡Demuestra tu valentía y conquista la galaxia! 🌌
 💀 Penalización por huir: ¡Escapar te costará puntos de experiencia!
 🛡️ Diversos enemigos: Enfréntate a Aliens, Robots y Monstruos.
 🚀 Exploración continua: Elige si quieres seguir explorando o terminar tu aventura.
-🏗️ Instalación
 
 aventura-espacial/
-│
+|
 ├── clases/
 │   ├── jugador.py      # Lógica del jugador
 │   └── enemigo.py      # Lógica de los enemigos
-│
+|
 ├── main.py             # Lógica principal del juego
 ├── README.md           # Descripción del proyecto
 └── requirements.txt    # (Opcional) Dependencias del proyecto

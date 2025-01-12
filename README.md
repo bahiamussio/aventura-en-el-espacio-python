@@ -1,9 +1,11 @@
 🚀 Aventura Espacial: Batalla por la Galaxia 👾🌌
 
 ¡Bienvenido, explorador espacial! 🌠
+
 Embárcate en una emocionante aventura por el espacio, donde deberás enfrentarte a peligrosos enemigos intergalácticos o tomar la difícil decisión de huir para sobrevivir. ⚔️🛸
 
 🎮 Descripción del Juego
+
 En Aventura Espacial: Batalla por la Galaxia, asumes el rol de un valiente astronauta que explora galaxias desconocidas. En tu camino, te encontrarás con criaturas alienígenas, robots y monstruos que intentarán detenerte. Deberás decidir si luchar para ganar experiencia y mejorar tus habilidades o huir y enfrentar las consecuencias.
 
 Cada decisión cuenta. ¡Demuestra tu valentía y conquista la galaxia! 🌌

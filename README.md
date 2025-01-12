@@ -16,25 +16,41 @@ Cada decisión cuenta. ¡Demuestra tu valentía y conquista la galaxia! 🌌
 🚀 Exploración continua: Elige si quieres seguir explorando o terminar tu aventura.
 
 aventura-espacial/
+
 |
+
 ├── clases/
+
 │   ├── jugador.py      # Lógica del jugador
+
 │   └── enemigo.py      # Lógica de los enemigos
+
 |
 ├── main.py             # Lógica principal del juego
+
 ├── README.md           # Descripción del proyecto
+
 └── requirements.txt    # (Opcional) Dependencias del proyecto
+
 
 🎯 Objetivo del Juego
 Derrota a todos los enemigos y sobrevive en la galaxia.
+
 Sube de nivel y fortalece a tu personaje.
+
 Toma decisiones sabias: ¿Atacar o huir? Cada elección tiene sus consecuencias.
 
+
 💡 Futuras Mejoras
+
 🌍 Nuevos escenarios galácticos.
+
 🔥 Jefes finales con habilidades especiales.
+
 🎨 Interfaz gráfica para mejorar la experiencia del jugador.
+
 🎶 Efectos de sonido y música espacial.
+
 
 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! 💡
